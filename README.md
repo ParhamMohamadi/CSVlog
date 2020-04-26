@@ -1,6 +1,7 @@
 # CSVlog
 Creating a class for using CSV in python
-In this class I creat three clumn of data (Time, Meter, Presure).
+
+In this class I create three clumn of data (Time, Meter, Presure).
 
 How To Use:
 1: import CSVlog in your code
